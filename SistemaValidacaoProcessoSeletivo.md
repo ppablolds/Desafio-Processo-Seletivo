@@ -17,3 +17,11 @@ imprima: <strong>LIGAR PARA O CANDIDATO COM CONTRA PROPOSTA</strong>
 das inúmeras candidaturas sejam selecionados apenas no maxímo 5
 candidatos para a entrevista onde o salário pretendido seja menor
 ou igual ao salário base.
+
+<strong>Case 3 :</strong> Agora é hora de imprimir a lista dos candidatos
+selecionados para disponibilizar para o RH entrar em contato.
+
+<strong>Case 4 :</strong> O RH deverá realizar uma ligação com no máximo 3
+tentativas para cada candidato selecionado e caso o candidato não atenda,
+deve-se imprimir : 
+ - 
