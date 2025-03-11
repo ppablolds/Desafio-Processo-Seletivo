@@ -8,6 +8,12 @@ o valor base salarial de R$ 2.000,00 e o salário pretendido pelo
 candidato. Vamos elaborar um controle de fluxo onde:
 
  - Se o valor salário base for maior que o valor salário
-pretendido, imprima: <strong>LIGAR PARA O CANDIDATO</strong> - Senão se o valor salario base for igual o salario pretendido,
+pretendido, imprima: <strong>LIGAR PARA O CANDIDATO</strong>
+ - Senão se o valor salario base for igual o salario pretendido,
 imprima: <strong>LIGAR PARA O CANDIDATO COM CONTRA PROPOSTA</strong>
  - Senão imprima: <strong>AGUARDANDO RESULTADO DOS DEMAIS CANDIDATOS</strong>
+
+<strong>Case 2 :</strong> Foi solicitado que nosso sistema garante que diante
+das inúmeras candidaturas sejam selecionados apenas no maxímo 5
+candidatos para a entrevista onde o salário pretendido seja menor
+ou igual ao salário base.
