@@ -24,4 +24,5 @@ selecionados para disponibilizar para o RH entrar em contato.
 <strong>Case 4 :</strong> O RH deverá realizar uma ligação com no máximo 3
 tentativas para cada candidato selecionado e caso o candidato não atenda,
 deve-se imprimir : 
- - 
+ - <strong>"CONSEGUIMOS CONTATO COM [candidato] APÓS [tentativas] TENTATIVA(S)."</strong>
+ - Caso contrário imprima: <strong>"NÃO CONSEGUIMOS CONTATO COM O [candidato]."</strong>
